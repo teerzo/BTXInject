@@ -1,0 +1,130 @@
+
+Interact Engine, Tentative name 
+
+Current Bugs:
+
+	Raycasting to current mesh is casting to 32k triangles
+		* solution 1, replace with lower res objects
+			+ more speed 
+			+ faster raycast times
+			- less detail? sort of 
+
+		* Solution 2, add collision box around object as raycast target
+			+ very fast raycast times
+			- very inaccurate raycasting 
+
+	Camera
+		* Camera not acting as intended 
+			// seems to be slightly off from expected position
+		* lookAt and target don't seem to work either 
+
+	Touch Controls
+		* Movement plane being place in incorrect position to camera/object
+			plane placed at 0,0,0 not at object
+			Zooming breaks plane placement aswell
+			objects selected offset position is incorrect
+			!! Consider writing own camera controls built into engine code
+				// this will fix touch/mouse event conflicts
+		* Touch/Move objects, Objects jump forward towards camera 
+
+	Surface Testing
+		Chrome
+
+
+	Android Testing 
+		Chrome
+			Selecting/highlighting Buttons/Text
+
+
+	Ipad Gen? Testing 
+		Very Low detail 
+		Constant 57 fps idle/rotating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Touch Controls 
+
+
+Move custom object data into THREE.Object3D.userData object
+
+Raycast to mesh
+	access parent's userdata 
+	set selected in parents userdata
+	update via parent ( Object3D ) userdata to change colours
+
+Interactable lights 
+
+
+Move css buttons
+	wrap around after each object 
+	set width of the object button div ??
+
+Movement code
+	move object along axis of camera 
+
+load rest of models
+	try to load of seperated pieces of the whole model
+
+// Object Structure 
+
+	String name 
+	THREE.Object3D Actor/Object 
+	THREE.Mesh Mesh 
+	Diffuse Texture
+	... other Textures
+
+	THREE.Material Material
+	// bool checks
+	bool selected
+	bool visible 
+	bool lock
+
+
+
+
+
+Object loading working correctly
+Scale with size of js file loading objects
+
+Fps counter in 
+
+Object selecting working as intended 
+currently sets the emissive color of the material
+on or off
+
+// NEXT //
+
+done ** Clean files  
+done ** restructure paths for files and objs
+not need yet **	Add min versions of THREE.js files for performance
+
+
+done ** Ask someone about sam script to set my js/json file 
+
+55 of 355 models ** Load full human body 
+
+Load high detail multi object obj
+Load high detail multi object multi obj
+
+$$$ ** Object selection used for movement 
+$$$ ** move objects when selected along axis with camera
+
+done ** Add buttons for each obj in scene 
+	Select
+	Reset Position
+	Hide/Show
+	lock
+
