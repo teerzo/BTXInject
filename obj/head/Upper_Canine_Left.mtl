@@ -1,0 +1,1413 @@
+newmtl Auricular_Anterior_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Brain_Basic_Left_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Brain_Basic_Right1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Buccinator_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Buccinator_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl C03_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl C04_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl C05_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl C06_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl C07_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Cerebellum_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Corrugator_Supercilii_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Corrugator_Supercilii_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Anguli_Oris_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Anguli_Oris_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Labii_Inferioris_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Labii_Inferioris_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Septi_Nasi_uscle_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Supercilii_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Depressor_Supercilii_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Digastric_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Digastric_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Eye_Balll_Inner1_Eye_Balll_InnerSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Eye_Ball_01.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 126.00
+newmtl Eye_Balll_InnerSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Eye_Ball_01.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 126.00
+newmtl Hyoglossus_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Hyoglossus_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Anguli_Oris_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Anguli_Oris_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Labii_Superioris_Muscle_Left2_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Labii_Superioris_Muscle_Left3_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Labii_Superioris_Muscle_Right1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Labii_Superioris_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_01_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_01_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_02_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_02_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_03_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_03_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_04_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Levator_Scapulae_Muscle_04_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Lower_Canine1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Canine_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Incisor1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Incisor2_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Incisor3_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Incisor_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Molar1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Molar2_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Molar3_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Molar_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Premolar1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Premolar2_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Premolar3_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Lower_Premolar_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Mandible_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Masseter_Deep_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Masseter_Deep_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Masseter_Superficial_Muscle_Left_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Masseter_Superficial_Muscle_Right1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Mentalis_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Mentalis_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Mylohyoid_Muscle_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Nasal_Cartilage_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Nasalis_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Nasalis_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Nerves_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Nerves_Left_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Orbicularis_Oculi_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Orbicularis_Oculi_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Orbicularis_Oris_Muscle_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Pituitary_Gland_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Posterior_Auricular_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Posterior_Auricular_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Procerus_Muscle1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Procerus_Muscle_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Risorius_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Risorius_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalene_Muscle_Left3_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalene_Muscle_Left4_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalene_Muscle_Left5_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalene_Muscle_Right1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalene_Muscle_Right2_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalene_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Anterior_Muscle_Left3_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Anterior_Muscle_Left4_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Anterior_Muscle_Left5_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Anterior_Muscle_Right1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Anterior_Muscle_Right2_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Anterior_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Posterior_Muscle_01_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Posterior_Muscle_01_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Posterior_Muscle_02_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Posterior_Muscle_02_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Posterior_Muscle_03_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Scalenus_Posterior_Muscle_03_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_02_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_02_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_03_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_03_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_04_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_04_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_05_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_05_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_06_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Capitis_Muscle_06_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_01_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_01_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_02_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_02_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_03_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_03_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_04_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Semispinalis_Cervicis_Muscle_04_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Skull_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Spinal_Cord_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.39 0.39 0.39
+Tf 1.00 1.00 1.00
+map_Kd brainTexture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl Splenius_Cervicis_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Splenius_Cervicis_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Sternocleidomastoid_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Sternocleidomastoid_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Sternohyoid_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Sternohyoid_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Sternothyroideus_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Sternothyroideus_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Stylohyoid_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Stylohyoid_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Superior_Auricular_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Superior_Auricular_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl T01_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl T02_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl T03_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Temporal_Muscle_Left1_phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.36 0.36 0.36
+Tf 1.00 1.00 1.00
+map_Kd muscles_bodyTexture.png
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 47.80
+newmtl Temporal_Muscle_Right_phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.36 0.36 0.36
+Tf 1.00 1.00 1.00
+map_Kd muscles_bodyTexture.png
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 47.80
+newmtl Thyrohyoid_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Thyrohyoid_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Upper_Canine1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Canine_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Incisor1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Incisor2_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Incisor3_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Incisor_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Molar1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Molar2_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Molar3_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Molar_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Premolar1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Premolar2_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Premolar3_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Upper_Premolar_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Zygomaticus_Major_Muscle_Left_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Zygomaticus_Major_Muscle_Right1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Zygomaticus_Minor_Muscle_Left1_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl Zygomaticus_Minor_Muscle_Right_phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl axis_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl pasted__Lower_Premolar1_Carpals_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Skull_Texture_RGB.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.34 0.34 0.34
+Tf 1.00 1.00 1.00
+map_Kd muscles.png
+Ni 1.00
+Ks 0.48 0.48 0.48
+Ns 18.00
+newmtl phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.36 0.36 0.36
+Tf 1.00 1.00 1.00
+map_Kd muscles_bodyTexture.png
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 47.80

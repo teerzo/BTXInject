@@ -1,0 +1,18 @@
+newmtl MusclesExport_blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd MuscleDiffuse.png
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 0.06
+newmtl SkeletonExport_lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd BoneDiffuse.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 0.06
